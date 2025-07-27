@@ -1,0 +1,36 @@
+BASIC;Banana;fruit,sweet;89.0;carbs=23.0
+BASIC;Apple;fruit,fiber;52.0;fiber=2.4,carbs=14.0
+BASIC;Orange;citrus,vitamin_c;47.0;vitamin_c=53.2
+BASIC;Rice;grain,staple;130.0;carbs=28.0
+BASIC;Chapati;wheat,flatbread;71.0;fiber=2.0,carbs=15.0
+BASIC;Milk;dairy,protein;42.0;calcium=120.0,protein=3.4
+BASIC;Curd;probiotic,dairy;60.0;calcium=80.0,protein=3.0
+BASIC;Paneer;dairy,protein;265.0;protein=18.0,fat=21.0
+BASIC;Chicken Curry;meat,spicy;239.0;protein=25.0,fat=15.0
+BASIC;Fish Fry;seafood,crispy;206.0;protein=22.0,fat=12.0
+BASIC;Veg Biryani;rice,mixed;190.0;fiber=4.0,carbs=30.0
+BASIC;Egg Biryani;spicy,rice;210.0;protein=11.0,fat=8.0
+COMPOSITE;South Thali;combo,indian;Rice:1.0|Chapati:1.0|Curd:1.0|Paneer:1.0
+BASIC;Upma;semolina,light;110.0;carbs=22.0
+BASIC;Poha;rice flakes,light;104.0;fiber=2.5,carbs=19.0
+BASIC;Oats;fiber,healthy;68.0;fiber=3.0,protein=2.5
+BASIC;Cornflakes;breakfast,cereal;100.0;carbs=24.0
+BASIC;Tea;drink,caffeine;30.0;
+BASIC;Coffee;drink,hot;40.0;caffeine=60.0
+BASIC;Green Tea;herbal,drink;2.0;antioxidants=20.0
+COMPOSITE;Breakfast Bowl;morning,mix;Oats:1.0|Banana:1.0|Milk:1.0
+COMPOSITE;Protein Plate;highprotein,mix;Paneer:1.0|Milk:1.0
+BASIC;Tofu;vegan,protein;144.0;protein=15.0
+BASIC;Salad;veggies,light;80.0;fiber=3.0
+COMPOSITE;Healthy Lunch;balanced;Salad:1.0|Rice:1.0|Chicken Curry:1.0
+BASIC;Grapes;fruit,sweet;69.0;carbs=18.0
+BASIC;Mango;fruit,sweet;99.0;carbs=25.0
+BASIC;Dry Fruits;nuts,energy;150.0;protein=4.0,fat=12.0
+COMPOSITE;Fruit Bowl;fresh,mix;Apple:1.0|Banana:1.0|Orange:1.0
+BASIC;Chips;snack,fried;150.0;fat=10.0
+BASIC;Burger;junk,fastfood;300.0;protein=15.0,fat=18.0
+BASIC;Pizza;cheese,bread;285.0;carbs=36.0,fat=12.0
+COMPOSITE;Cheat Meal;indulgent;Burger:1.0|Pizza:1.0|Chips:1.0
+BASIC;Burger;spicy,afch,hosh;55.0;carbs=3.0
+COMPOSITE;haleem;mtuoon;Cheat Meal:3.0
+BASIC;bheema siddartha;bheema,bheem,hey;2.0;

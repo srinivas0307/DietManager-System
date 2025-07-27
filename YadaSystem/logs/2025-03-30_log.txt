@@ -1,0 +1,6 @@
+Chicken Breast;2;165.00
+Brown Rice;1;111.00
+Spinach;1;23.00
+Almonds;3;576.00
+Apple;2;52.00
+Veggie Wrap;3;28.20

@@ -1,0 +1,7 @@
+Chicken Salad;salad,healthy,meal;Chicken Breast;0.5;Tomato;0.3;Spinach;0.2  
+Oatmeal Bowl;breakfast,grain,healthy;Oatmeal;0.6;Almonds;0.2;Yogurt;0.2  
+Grilled Salmon Plate;fish,protein,meal;Salmon;0.7;Spinach;0.3  
+Fruit & Nut Mix;snack,healthy,mix;Apple;0.4;Almonds;0.6  
+Rice & Chicken;meal,protein,carbs;Brown Rice;0.6;Chicken Breast;0.4  
+Veggie Wrap;vegetarian,meal,wrap;Tomato;0.4;Spinach;0.4;Yogurt;0.2  
+Egg Breakfast;breakfast,protein,low-carb;Egg;0.7;Spinach;0.3

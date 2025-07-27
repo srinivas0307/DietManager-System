@@ -1,0 +1,10 @@
+Apple;fruit,fresh,healthy;52.0  
+Chicken Breast;chicken,protein,meat;165.0  
+Brown Rice;rice,grain,carbs;111.0  
+Tomato;vegetable,fresh,low-calorie;18.0  
+Almonds;nuts,protein,healthy;576.0  
+Yogurt;dairy,probiotic,low-fat;59.0  
+Oatmeal;grain,breakfast,healthy;68.0  
+Spinach;vegetable,leafy,low-calorie;23.0  
+Salmon;fish,omega3,protein;206.0  
+Egg;protein,breakfast,healthy;155.0

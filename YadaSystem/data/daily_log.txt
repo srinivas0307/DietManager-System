@@ -1,0 +1,5 @@
+2005-05-26 | Apricot Delight | HOC ,sweet | 4.00 | 288.00
+2025-06-07 | Grapes | fruit,sweet | 3.00 | 207.00
+2025-06-07 | Fruit Bowl | fresh,mix | 2.00 | 376.00
+2005-05-06 | Chicken Curry | meat,spicy | 2.00 | 478.00
+2005-05-06 | Egg Biryani | spicy,rice | 2.00 | 420.00
